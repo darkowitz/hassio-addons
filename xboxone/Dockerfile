@@ -8,6 +8,4 @@ COPY run.sh /
 COPY xboxone.py /
 RUN chmod a+x /run.sh
 
-# RUN touch /config/.xbox-token.json && ln -s /config/.xbox-token.json /root/.local/share/xbox/tokens.json
-
 CMD [ "/run.sh" ]
