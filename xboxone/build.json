@@ -1,0 +1,9 @@
+{
+  "build_from": {
+    "amd64": "hunterjm/hassio-amd64-xboxone",
+    "armhf": "hunterjm/hassio-armhf-xboxone",
+    "aarch64": "hunterjm/hassio-aarch64-xboxone",
+    "i386": "hunterjm/hassio-i386-xboxone"
+  },
+  "squash": false
+}
