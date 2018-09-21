@@ -413,12 +413,16 @@ class XboxOne:
         """
         Enumerate devices and refresh status info
         """
+        self._check_authentication()
         self._refresh_devicelist()
 
         device_info = self._get_device_info()
         if not device_info or device_info.get('device_status') == 'Unavailable':
             self._available = False
             self._connected = False
+            self._console_status = None
+            self._media_status = None
+            self._volume_controls = None
         else:
             self._available = True
 
