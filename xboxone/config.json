@@ -1,9 +1,9 @@
 {
-  "name": "Xbox One",
-  "version": "1.0.1",
+  "name": "Xbox One (UnknownSKL Fork)",
+  "version": "1.1.0",
   "slug": "xboxone",
-  "description": "Control your Xbox One from your Home Assistant device",
-  "url": "https://github.com/hunterjm/hassio-addons/tree/master/xboxone",
+  "description": "Control your Xbox One from your Home Assistant device (Fork from https://github.com/hunterjm/hassio-addons)",
+  "url": "https://github.com/unknownskl/hassio-addons/tree/master/xboxone",
   "startup": "before",
   "boot": "auto",
   "host_network": true,
