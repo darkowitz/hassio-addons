@@ -1,9 +1,9 @@
 {
   "build_from": {
-    "amd64": "hunterjm/hassio-amd64-xboxone:latest",
-    "armhf": "hunterjm/hassio-armhf-xboxone:latest",
-    "aarch64": "hunterjm/hassio-aarch64-xboxone:latest",
-    "i386": "hunterjm/hassio-i386-xboxone:latest"
+    "amd64": "unknownskl/xbox-smartglass-rest-python:latest",
+    "armhf": "unknownskl/xbox-smartglass-rest-python:latest",
+    "aarch64": "unknownskl/xbox-smartglass-rest-python:latest",
+    "i386": "unknownskl/xbox-smartglass-rest-python:latest"
   },
   "squash": false
 }
