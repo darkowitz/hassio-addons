@@ -1,3 +1,3 @@
 # Hass.io Add-ons
 
-Custom Add-ons by Jason Hunter
+Xbox-One home-assistant plugin specially optimised for the Raspberry pi 3.

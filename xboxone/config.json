@@ -1,9 +1,10 @@
 {
   "name": "Xbox One (UnknownSKL Fork)",
-  "version": "1.2.1",
+  "version": "2.0",
   "slug": "xboxone",
   "description": "Control your Xbox One from your Home Assistant device (Fork from https://github.com/hunterjm/hassio-addons) Xbox-Smartglass-Rest version 0.9.6",
   "url": "https://github.com/unknownskl/hassio-addons/tree/master/xboxone",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
   "boot": "auto",
   "host_network": true,

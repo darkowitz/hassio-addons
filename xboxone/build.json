@@ -1,9 +1,9 @@
 {
   "build_from": {
-    "amd64": "unknownskl/xbox-smartglass-rest-python:v0.9.6",
-    "armhf": "unknownskl/xbox-smartglass-rest-python:v0.9.6",
-    "aarch64": "unknownskl/xbox-smartglass-rest-python:v0.9.6",
-    "i386": "unknownskl/xbox-smartglass-rest-python:v0.9.6"
+    "amd64": "unknownskl/xbox-smartglass-rest-python:v0.9.8",
+    "armhf": "unknownskl/xbox-smartglass-rest-python:v0.9.8",
+    "aarch64": "unknownskl/xbox-smartglass-rest-python:v0.9.8",
+    "i386": "unknownskl/xbox-smartglass-rest-python:v0.9.8"
   },
   "squash": false
 }
