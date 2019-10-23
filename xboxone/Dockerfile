@@ -3,7 +3,7 @@ FROM $BUILD_FROM
 
 ENV LANG C.UTF-8
 
-RUN apk add --update -y gcc libc-dev python3-dev libffi-dev libressl-dev
+RUN apk add --update gcc libc-dev python3-dev libffi-dev libressl-dev
 RUN pip3 install xbox-smartglass-rest
 EXPOSE 5557/tcp
 
