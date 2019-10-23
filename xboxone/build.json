@@ -1,9 +1,10 @@
 {
   "build_from": {
-    "amd64": "resin/armv7hf-python:3.6-slim",
-    "armhf": "resin/armv7hf-python:3.6-slim",
-    "aarch64": "resin/armv7hf-python:3.6-slim",
-    "i386": "resin/armv7hf-python:3.6-slim"
+    "amd64": "darkowitz/xbox-smartglass-rest-python:0.9.10",
+    "armv7": "darkowitz/xbox-smartglass-rest-python:0.9.10",
+    "armhf": "darkowitz/xbox-smartglass-rest-python:0.9.10",
+    "aarch64": "darkowitz/xbox-smartglass-rest-python:0.9.10",
+    "i386": "darkowitz/xbox-smartglass-rest-python:0.9.10"
   },
   "squash": false
 }
