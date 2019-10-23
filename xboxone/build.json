@@ -1,10 +1,6 @@
 {
   "build_from": {
-    "amd64": "darkowitz/xbox-smartglass-rest-python:0.9.10",
-    "armv7": "darkowitz/xbox-smartglass-rest-python:0.9.10",
-    "armhf": "darkowitz/xbox-smartglass-rest-python:0.9.10",
-    "aarch64": "darkowitz/xbox-smartglass-rest-python:0.9.10",
-    "i386": "darkowitz/xbox-smartglass-rest-python:0.9.10"
+    "armv7": "darkowitz/hassio-armv7-xboxone:2.0.4"
   },
   "squash": false
 }

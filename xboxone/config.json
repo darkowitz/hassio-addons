@@ -1,10 +1,10 @@
 {
   "name": "Xbox One (HassOS RPi3+)",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "slug": "xboxone",
   "description": "Control your Xbox One from your Home Assistant device (Fork from https://github.com/unknownskl/hassio-addons) Xbox-Smartglass-Rest version 0.9.8",
   "url": "https://github.com/darkowitz/hassio-addons/tree/master/xboxone",
-  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "arch": ["armv7"],
   "startup": "before",
   "boot": "auto",
   "host_network": true,
