@@ -1,4 +1,4 @@
-ARG BUILD_FROM
+ARG BUILD_FROM="darkowitz/xbox-smartglass-rest-python:0.9.9"
 FROM $BUILD_FROM
 
 ENV LANG C.UTF-8
